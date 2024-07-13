@@ -10,6 +10,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Daniel-Grounin/LeetHub/tree/master/0020-valid-parentheses) |
 | [0974-reorder-data-in-log-files](https://github.com/Daniel-Grounin/LeetHub/tree/master/0974-reorder-data-in-log-files) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Daniel-Grounin/LeetHub/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -52,4 +53,9 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Daniel-Grounin/LeetHub/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Daniel-Grounin/LeetHub/tree/master/0234-palindrome-linked-list) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Daniel-Grounin/LeetHub/tree/master/1818-maximum-score-from-removing-substrings) |
+## Greedy
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Daniel-Grounin/LeetHub/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
