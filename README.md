@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Daniel-Grounin/LeetHub/tree/master/0020-valid-parentheses) |
 | [0974-reorder-data-in-log-files](https://github.com/Daniel-Grounin/LeetHub/tree/master/0974-reorder-data-in-log-files) |
 ## Sorting
 |  |
@@ -50,5 +51,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Daniel-Grounin/LeetHub/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Daniel-Grounin/LeetHub/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
