@@ -60,6 +60,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Daniel-Grounin/LeetHub/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Daniel-Grounin/LeetHub/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Daniel-Grounin/LeetHub/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Daniel-Grounin/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Daniel-Grounin/LeetHub/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Greedy
@@ -79,9 +80,11 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Daniel-Grounin/LeetHub/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Daniel-Grounin/LeetHub/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Daniel-Grounin/LeetHub/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Daniel-Grounin/LeetHub/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
 
