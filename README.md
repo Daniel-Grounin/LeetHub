@@ -5,6 +5,7 @@
 | ------- |
 | [0164-maximum-gap](https://github.com/Daniel-Grounin/LeetHub/tree/master/0164-maximum-gap) |
 | [0974-reorder-data-in-log-files](https://github.com/Daniel-Grounin/LeetHub/tree/master/0974-reorder-data-in-log-files) |
+| [2727-number-of-senior-citizens](https://github.com/Daniel-Grounin/LeetHub/tree/master/2727-number-of-senior-citizens) |
 ## String
 |  |
 | ------- |
@@ -12,6 +13,7 @@
 | [0020-valid-parentheses](https://github.com/Daniel-Grounin/LeetHub/tree/master/0020-valid-parentheses) |
 | [0974-reorder-data-in-log-files](https://github.com/Daniel-Grounin/LeetHub/tree/master/0974-reorder-data-in-log-files) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Daniel-Grounin/LeetHub/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2727-number-of-senior-citizens](https://github.com/Daniel-Grounin/LeetHub/tree/master/2727-number-of-senior-citizens) |
 ## Sorting
 |  |
 | ------- |
