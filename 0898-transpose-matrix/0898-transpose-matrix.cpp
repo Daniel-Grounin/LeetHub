@@ -3,13 +3,12 @@ public:
     vector<vector<int>> transpose(vector<vector<int>>& matrix) {
         int rows = matrix.size();
         int cols = matrix[0].size();
-        vector<vector<int>> flipped(cols, vector<int>(rows)); 
+        vector<vector<int>> flipped(cols, vector<int>(rows));
 
-        for(int i = 0; i < rows; i++){
-            for(int j=0;j < cols; j++){
-                flipped[j][i] = matrix[i][j];
+        for (int i = 0; i < rows; ++i) {
+            for (int j = 0; j < cols; ++j) {
+                flipped[j][i] = matrix[i][j]; // Transpose the elements
             }
-
         }
         return flipped;
     }
