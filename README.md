@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Daniel-Grounin/LeetHub/tree/master/0164-maximum-gap) |
+| [0898-transpose-matrix](https://github.com/Daniel-Grounin/LeetHub/tree/master/0898-transpose-matrix) |
 | [0974-reorder-data-in-log-files](https://github.com/Daniel-Grounin/LeetHub/tree/master/0974-reorder-data-in-log-files) |
 | [2727-number-of-senior-citizens](https://github.com/Daniel-Grounin/LeetHub/tree/master/2727-number-of-senior-citizens) |
 ## String
@@ -92,5 +93,13 @@
 |  |
 | ------- |
 | [1203-print-in-order](https://github.com/Daniel-Grounin/LeetHub/tree/master/1203-print-in-order) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Daniel-Grounin/LeetHub/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Daniel-Grounin/LeetHub/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
 
