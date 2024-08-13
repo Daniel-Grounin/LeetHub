@@ -5,6 +5,7 @@
 | ------- |
 | [0164-maximum-gap](https://github.com/Daniel-Grounin/LeetHub/tree/master/0164-maximum-gap) |
 | [0898-transpose-matrix](https://github.com/Daniel-Grounin/LeetHub/tree/master/0898-transpose-matrix) |
+| [0919-projection-area-of-3d-shapes](https://github.com/Daniel-Grounin/LeetHub/tree/master/0919-projection-area-of-3d-shapes) |
 | [0974-reorder-data-in-log-files](https://github.com/Daniel-Grounin/LeetHub/tree/master/0974-reorder-data-in-log-files) |
 | [2727-number-of-senior-citizens](https://github.com/Daniel-Grounin/LeetHub/tree/master/2727-number-of-senior-citizens) |
 ## String
@@ -75,6 +76,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Daniel-Grounin/LeetHub/tree/master/0002-add-two-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Daniel-Grounin/LeetHub/tree/master/0168-excel-sheet-column-title) |
+| [0919-projection-area-of-3d-shapes](https://github.com/Daniel-Grounin/LeetHub/tree/master/0919-projection-area-of-3d-shapes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Daniel-Grounin/LeetHub/tree/master/0898-transpose-matrix) |
+| [0919-projection-area-of-3d-shapes](https://github.com/Daniel-Grounin/LeetHub/tree/master/0919-projection-area-of-3d-shapes) |
 ## Simulation
 |  |
 | ------- |
@@ -105,5 +108,9 @@
 |  |
 | ------- |
 | [0899-binary-gap](https://github.com/Daniel-Grounin/LeetHub/tree/master/0899-binary-gap) |
+## Geometry
+|  |
+| ------- |
+| [0919-projection-area-of-3d-shapes](https://github.com/Daniel-Grounin/LeetHub/tree/master/0919-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
 
