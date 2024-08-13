@@ -101,5 +101,9 @@
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Daniel-Grounin/LeetHub/tree/master/0898-transpose-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0899-binary-gap](https://github.com/Daniel-Grounin/LeetHub/tree/master/0899-binary-gap) |
 <!---LeetCode Topics End-->
 
