@@ -81,6 +81,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Daniel-Grounin/LeetHub/tree/master/0002-add-two-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Daniel-Grounin/LeetHub/tree/master/0168-excel-sheet-column-title) |
+| [0441-arranging-coins](https://github.com/Daniel-Grounin/LeetHub/tree/master/0441-arranging-coins) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Daniel-Grounin/LeetHub/tree/master/0919-projection-area-of-3d-shapes) |
 ## Sliding Window
 |  |
@@ -118,5 +119,9 @@
 |  |
 | ------- |
 | [0919-projection-area-of-3d-shapes](https://github.com/Daniel-Grounin/LeetHub/tree/master/0919-projection-area-of-3d-shapes) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/Daniel-Grounin/LeetHub/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
 
