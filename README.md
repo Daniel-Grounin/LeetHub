@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Daniel-Grounin/LeetHub/tree/master/0164-maximum-gap) |
+| [0890-lemonade-change](https://github.com/Daniel-Grounin/LeetHub/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Daniel-Grounin/LeetHub/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Daniel-Grounin/LeetHub/tree/master/0919-projection-area-of-3d-shapes) |
 | [0974-reorder-data-in-log-files](https://github.com/Daniel-Grounin/LeetHub/tree/master/0974-reorder-data-in-log-files) |
@@ -75,6 +76,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/Daniel-Grounin/LeetHub/tree/master/0890-lemonade-change) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Daniel-Grounin/LeetHub/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Math
 |  |
