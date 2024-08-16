@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Daniel-Grounin/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Daniel-Grounin/LeetHub/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Daniel-Grounin/LeetHub/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Daniel-Grounin/LeetHub/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Daniel-Grounin/LeetHub/tree/master/0242-valid-anagram) |
@@ -126,5 +127,9 @@
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Daniel-Grounin/LeetHub/tree/master/0441-arranging-coins) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Daniel-Grounin/LeetHub/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
 
