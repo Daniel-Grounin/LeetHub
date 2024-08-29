@@ -8,6 +8,7 @@
 | [0898-transpose-matrix](https://github.com/Daniel-Grounin/LeetHub/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Daniel-Grounin/LeetHub/tree/master/0919-projection-area-of-3d-shapes) |
 | [0974-reorder-data-in-log-files](https://github.com/Daniel-Grounin/LeetHub/tree/master/0974-reorder-data-in-log-files) |
+| [1791-richest-customer-wealth](https://github.com/Daniel-Grounin/LeetHub/tree/master/1791-richest-customer-wealth) |
 | [2727-number-of-senior-citizens](https://github.com/Daniel-Grounin/LeetHub/tree/master/2727-number-of-senior-citizens) |
 ## String
 |  |
@@ -111,6 +112,7 @@
 | ------- |
 | [0898-transpose-matrix](https://github.com/Daniel-Grounin/LeetHub/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Daniel-Grounin/LeetHub/tree/master/0919-projection-area-of-3d-shapes) |
+| [1791-richest-customer-wealth](https://github.com/Daniel-Grounin/LeetHub/tree/master/1791-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
