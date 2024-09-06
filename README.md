@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Daniel-Grounin/LeetHub/tree/master/0027-remove-element) |
 | [0164-maximum-gap](https://github.com/Daniel-Grounin/LeetHub/tree/master/0164-maximum-gap) |
 | [0890-lemonade-change](https://github.com/Daniel-Grounin/LeetHub/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Daniel-Grounin/LeetHub/tree/master/0898-transpose-matrix) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Daniel-Grounin/LeetHub/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/Daniel-Grounin/LeetHub/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Daniel-Grounin/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Daniel-Grounin/LeetHub/tree/master/0234-palindrome-linked-list) |
 ## Recursion
