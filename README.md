@@ -5,6 +5,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Daniel-Grounin/LeetHub/tree/master/0027-remove-element) |
 | [0164-maximum-gap](https://github.com/Daniel-Grounin/LeetHub/tree/master/0164-maximum-gap) |
+| [0252-meeting-rooms](https://github.com/Daniel-Grounin/LeetHub/tree/master/0252-meeting-rooms) |
 | [0890-lemonade-change](https://github.com/Daniel-Grounin/LeetHub/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Daniel-Grounin/LeetHub/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Daniel-Grounin/LeetHub/tree/master/0919-projection-area-of-3d-shapes) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0164-maximum-gap](https://github.com/Daniel-Grounin/LeetHub/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/Daniel-Grounin/LeetHub/tree/master/0242-valid-anagram) |
+| [0252-meeting-rooms](https://github.com/Daniel-Grounin/LeetHub/tree/master/0252-meeting-rooms) |
 | [0974-reorder-data-in-log-files](https://github.com/Daniel-Grounin/LeetHub/tree/master/0974-reorder-data-in-log-files) |
 ## Database
 |  |
