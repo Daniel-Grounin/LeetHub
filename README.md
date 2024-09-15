@@ -6,6 +6,7 @@
 | [0027-remove-element](https://github.com/Daniel-Grounin/LeetHub/tree/master/0027-remove-element) |
 | [0164-maximum-gap](https://github.com/Daniel-Grounin/LeetHub/tree/master/0164-maximum-gap) |
 | [0252-meeting-rooms](https://github.com/Daniel-Grounin/LeetHub/tree/master/0252-meeting-rooms) |
+| [0500-keyboard-row](https://github.com/Daniel-Grounin/LeetHub/tree/master/0500-keyboard-row) |
 | [0890-lemonade-change](https://github.com/Daniel-Grounin/LeetHub/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Daniel-Grounin/LeetHub/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Daniel-Grounin/LeetHub/tree/master/0919-projection-area-of-3d-shapes) |
@@ -21,6 +22,7 @@
 | [0058-length-of-last-word](https://github.com/Daniel-Grounin/LeetHub/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Daniel-Grounin/LeetHub/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Daniel-Grounin/LeetHub/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0500-keyboard-row](https://github.com/Daniel-Grounin/LeetHub/tree/master/0500-keyboard-row) |
 | [0974-reorder-data-in-log-files](https://github.com/Daniel-Grounin/LeetHub/tree/master/0974-reorder-data-in-log-files) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Daniel-Grounin/LeetHub/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2727-number-of-senior-citizens](https://github.com/Daniel-Grounin/LeetHub/tree/master/2727-number-of-senior-citizens) |
@@ -50,6 +52,7 @@
 | [0141-linked-list-cycle](https://github.com/Daniel-Grounin/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Daniel-Grounin/LeetHub/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Daniel-Grounin/LeetHub/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0500-keyboard-row](https://github.com/Daniel-Grounin/LeetHub/tree/master/0500-keyboard-row) |
 ## Linked List
 |  |
 | ------- |
