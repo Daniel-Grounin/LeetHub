@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Daniel-Grounin/LeetHub/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Daniel-Grounin/LeetHub/tree/master/0066-plus-one) |
 | [0164-maximum-gap](https://github.com/Daniel-Grounin/LeetHub/tree/master/0164-maximum-gap) |
 | [0252-meeting-rooms](https://github.com/Daniel-Grounin/LeetHub/tree/master/0252-meeting-rooms) |
 | [0500-keyboard-row](https://github.com/Daniel-Grounin/LeetHub/tree/master/0500-keyboard-row) |
@@ -94,6 +95,7 @@
 | [0002-add-two-numbers](https://github.com/Daniel-Grounin/LeetHub/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Daniel-Grounin/LeetHub/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Daniel-Grounin/LeetHub/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Daniel-Grounin/LeetHub/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Daniel-Grounin/LeetHub/tree/master/0168-excel-sheet-column-title) |
 | [0441-arranging-coins](https://github.com/Daniel-Grounin/LeetHub/tree/master/0441-arranging-coins) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Daniel-Grounin/LeetHub/tree/master/0919-projection-area-of-3d-shapes) |
