@@ -8,6 +8,7 @@
 | [0164-maximum-gap](https://github.com/Daniel-Grounin/LeetHub/tree/master/0164-maximum-gap) |
 | [0252-meeting-rooms](https://github.com/Daniel-Grounin/LeetHub/tree/master/0252-meeting-rooms) |
 | [0500-keyboard-row](https://github.com/Daniel-Grounin/LeetHub/tree/master/0500-keyboard-row) |
+| [0777-toeplitz-matrix](https://github.com/Daniel-Grounin/LeetHub/tree/master/0777-toeplitz-matrix) |
 | [0890-lemonade-change](https://github.com/Daniel-Grounin/LeetHub/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Daniel-Grounin/LeetHub/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Daniel-Grounin/LeetHub/tree/master/0919-projection-area-of-3d-shapes) |
@@ -121,6 +122,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0777-toeplitz-matrix](https://github.com/Daniel-Grounin/LeetHub/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Daniel-Grounin/LeetHub/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Daniel-Grounin/LeetHub/tree/master/0919-projection-area-of-3d-shapes) |
 | [1791-richest-customer-wealth](https://github.com/Daniel-Grounin/LeetHub/tree/master/1791-richest-customer-wealth) |
